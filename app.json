@@ -1,8 +1,8 @@
   
 {
-  "name": "Youtube-scrape",
+  "name": "scrapeyt",
   "description": "An open source YouTube search Api",
-  "repository": "https://github.com/HermanFassett/youtube-scrape",
+  "repository": "https://github.com/samirov124/youtube-scrape",
   "logo": "https://pngimg.com/uploads/youtube/youtube_PNG21.png",
   "keywords": ["youtube", "youtube-scrape", "open-source"]
 }
